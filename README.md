@@ -1,3 +1,5 @@
+Test 1: Fork is working.
+
 # PRISM-games
 
 This is PRISM-games, an extension of the PRISM model checker
